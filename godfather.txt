@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-Keep your enemies close, but your friends distant.
-=======
+
 KEEP YOUR FRIENDS CLOSE, BUT YOUR ENEMIES CLOSER.
->>>>>>> 2809661 (godfather.txt text changes  - Commit 2)
-=======
-KEEP YOUR FRIENDS CLOSE, BUT YOUR ENEMIES CLOSER.
->>>>>>> 6a9b53906d027aab5f3e16893a8f1f3367aae0a8
+
