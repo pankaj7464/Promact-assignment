@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 No try there is, do or do not.
+=======
+DO OR DO NOT, THERE IS NO TRY.
+>>>>>>> 1db5c3c (yota text change- Commit 1)
